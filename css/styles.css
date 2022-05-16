@@ -56,7 +56,7 @@ body {
   transform: scale(1.1);
 }
 .imagenHead{
-  background: url(/img/PXL.jpeg) no-repeat top;
+  background: url(../img/PXL.jpeg) no-repeat top;
   background-size:100%;
   width: auto;
   height: 100vh;
