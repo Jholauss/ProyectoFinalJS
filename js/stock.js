@@ -12,7 +12,7 @@ let stockProductos = [
     {id: 11, nombre: "Tapete para verano",desc: "Tapete Fresco para verano", precio: 600, categoria: "Ambos", img: '../img/Cat-amb-3.jpg'},
     {id: 12, nombre: "Remera Cachorro",desc: "Remera para cachorros gato/perro", precio: 400, categoria: "Ambos", img: '../img/Cat-amb-4.jpg'},
     {id: 13, nombre: "Camiseta Cachorro",desc: "Camiseta para cachorros gato/perro", precio: 600, categoria: "Ambos", img: '../img/Cat-amb-1.jpg'},
-    {id: 14, nombre: "Shampoo Antipulgas",desc: "Shampoo antipulga repele acaros por 1 mes", precio: 1400, categoria: "Ambos", img: '../img/Cat-Amb-5.jpg'},
+    {id: 14, nombre: "Shampoo Antipulgas",desc: "Shampoo antipulga repele acaros por 1 mes", precio: 1400, categoria: "Ambos", img:'../img/Cat-amb-5.jpg'},
     {id: 15, nombre: "Canbo 8 Kg",desc: "Comida balanceada Canbo", precio: 700, categoria: "Perro", img: '../img/Cat-dog-6.jpg'},
     {id: 16, nombre: "Matisse 8 Kg",desc: "Comida balanceada Matisse", precio: 777, categoria: "Gato", img: '../img/Cat-cat-6.jpg'},
 ]
